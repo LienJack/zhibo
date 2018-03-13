@@ -21,7 +21,7 @@
 
 输入Y后  
 ![image](https://note.youdao.com/yws/public/resource/ebe0db6e35cc561cc39c167523cad0b4/xmlnote/ACF2B2E5AB03459C84C6D91A8105733A/16112)    
-爬取某个分区后会提醒完成这个分区，然后开始爬取下个分区
+爬取某个分区后会提醒完成这个分区，然后开始爬取下个分区  
 ![image](https://note.youdao.com/yws/public/resource/ebe0db6e35cc561cc39c167523cad0b4/xmlnote/056EA84D79D64391B87BDC45D64300BF/16118)    
 ### 结果展示
 #### 数据库link
